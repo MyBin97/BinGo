@@ -1,0 +1,10 @@
+{
+  "Version": "13.18.1",
+  "Update": 0,
+  "Download": "https://wwi.lanzoup.com/i7l5f18a3dqh",
+  "Tips": "该程序是由@MyBin编写的一款支持外服(不支持PBE和国服)英雄联盟换肤插件，换肤思路借鉴参考了R3nzSkin项目并优化修复部分BUG",
+  "Coro": "13.18.530.4653",
+  "Log": "https://www.bingoma.top/archives/bingo-riot",
+  "Help": "https://www.bingoma.top/archives/riot-issue",
+  "UpTips": "1、适配13.18游戏版本更新\n2、重写自动更新支持显示更新内容\n3、使用云端解析防止蓝奏云再次变动导致自动更新失败\n4、优化战绩显示及加载速度，添加战绩详情查看，战绩列表鼠标右键即可查看\n5、支持搜索账号/对局ID查看战绩详情"
+}
